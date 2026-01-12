@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-JAVA.iml" filepath="$PROJECT_DIR$/DSA-JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Space-Complexity/Space-Complexity.iml" filepath="$PROJECT_DIR$/Space-Complexity/Space-Complexity.iml" />
     </modules>
